@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3665ab9-0fe2-464a-932f-8fa8495168b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/demo/jk-upload-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/demo/widget-factory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/jquery-plugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jk-pager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jk-upload-file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jk-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jkupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jquery.namespace.plugin-boilerplate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/src/jquery.sliphover.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../idea/jquery-plugins/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../idea/jquery-plugins/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../../idea/jquery-plugins/out/" />
@@ -141,6 +128,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jquery-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
