@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.js"></script>
+    <script src="../src/jkupload.js"></script>
+    <script type="application/javascript">
+        $( function() {
+            $( "#element1" ).defaultPluginName( {
+                propertyName: "a custom value"
+            } );
+            var aa = $("#element2").defaultPluginName( {
+                propertyName: "element2 test"
+            } );
+           // alert( aa.resultFunction());
+        } );
+    </script>
+
+</head>
+<body>
+    <div id="element1">aa</div>
+    <div id="element2">bb</div>
+</body>
+</html>
